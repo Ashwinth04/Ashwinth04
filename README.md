@@ -49,3 +49,10 @@ Feel free to explore my GitHub repositories to see some of my projects and contr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a>
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Ashwinth04&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
+</a>
+<a>
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinth04&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
+</a>
